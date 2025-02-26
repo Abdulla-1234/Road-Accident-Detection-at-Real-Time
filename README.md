@@ -14,7 +14,7 @@ The system is **trained on a subset of the UCF Crime Dataset** and fine-tuned wi
 ## 📷 System Workflow  
 Below is the **workflow diagram** of the accident detection and alert system:  
 
-![Workflow Diagram]([images/workflow.png](https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Workflow%20Diagram.png))  
+![Workflow Diagram](https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Workflow%20Diagram.png)  
 
 ---
 
@@ -32,13 +32,13 @@ Below is the **workflow diagram** of the accident detection and alert system:
 - Processes **video frames in real-time**.  
 - Uses **CNN classification** to determine accident probability.  
 
-![CNN Model Architecture](images/cnn_model.png)  
+![Accident Detection Pipeline](https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Accident%20Detection%20Pipeline.png)  
 
 ### 4️⃣ Alert System  
 - If an accident is detected across **multiple frames**, an alert is generated.  
 - Alert **sends an image**, timestamp, and location to a **Telegram group** using the **Telegram Bot API**.  
 
-![Alert System](images/alert_system.png)  
+![Alert System](https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Alert%20Image.png)  
 
 ---
 
@@ -56,10 +56,10 @@ Below is the **workflow diagram** of the accident detection and alert system:
 ### 📊 Model Training Performance  
 Below are the **training accuracy** and **loss graphs**:  
 
-![Training Accuracy](images/training_accuracy.png)  
+![Training Accuracy](https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Training%20accuracy%20and%20val_accuracy..png)  
 *Figure: Accuracy improvement over epochs.*  
 
-![Training Loss](images/training_loss.png)  
+![Training Loss](https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Training%20loss%20and%20val_loss..png)  
 *Figure: Loss reduction over epochs.*  
 
 ---
