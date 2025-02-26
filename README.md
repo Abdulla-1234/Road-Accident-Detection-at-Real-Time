@@ -38,7 +38,7 @@ Below is the **workflow diagram** of the accident detection and alert system:
 - If an accident is detected across **multiple frames**, an alert is generated.  
 - Alert **sends an image**, timestamp, and location to a **Telegram group** using the **Telegram Bot API**.  
 
-<img src="https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Alert%20Image.png" alt="Alert System" width="400"/>
+<img src="https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Alert%20Image.png" alt="Alert System" width="200"/> |
 
 ---
 
@@ -53,16 +53,6 @@ Below is the **workflow diagram** of the accident detection and alert system:
 | MobileNetV2       | 94%      | 93%       | 93%    | 93%      |
 | Vision Transformer | 91%      | 91%       | 91%    | 91%      |
 
-### 📊 Model Training Performance  
-Below are the **training accuracy** and **loss graphs**:  
-
-<img src="https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Training%20accuracy%20and%20val_accuracy..png" alt="Training Accuracy" width="400"/>
-*Figure: Accuracy improvement over epochs.*  
-
-<img src="https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Training%20loss%20and%20val_loss..png" alt="Training Loss" width="500"/>
-*Figure: Loss reduction over epochs.*  
-
----
 
 ## 📊 Model Training Performance  
 Below are the **training accuracy** and **loss graphs**:  
@@ -76,6 +66,7 @@ Below are the **training accuracy** and **loss graphs**:
   <em>Figure: Accuracy improvement over epochs (Left) & Loss reduction over epochs (Right).</em>
 </p>
 
+---
 
 ## 📢 Alert System Example  
 
