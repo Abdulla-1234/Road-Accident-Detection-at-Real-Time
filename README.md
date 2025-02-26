@@ -64,6 +64,19 @@ Below are the **training accuracy** and **loss graphs**:
 
 ---
 
+## 📊 Model Training Performance  
+Below are the **training accuracy** and **loss graphs**:  
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Training%20accuracy%20and%20val_accuracy..png" alt="Training Accuracy" width="400"/>
+  <img src="https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Training%20loss%20and%20val_loss..png" alt="Training Loss" width="400"/>
+</div>
+
+<p align="center">
+  <em>Figure: Accuracy improvement over epochs (Left) & Loss reduction over epochs (Right).</em>
+</p>
+
+
 ## 📢 Alert System Example  
 
 Here’s an example of the **Telegram alert message** sent in case of an accident:  
