@@ -32,13 +32,13 @@ Below is the **workflow diagram** of the accident detection and alert system:
 - Processes **video frames in real-time**.  
 - Uses **CNN classification** to determine accident probability.
 
-<img src="[hello](https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Accident%20Detection%20Pipeline.png)" alt="Accident Detection Pipeline" width="400"/>
+<img src="https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Accident%20Detection%20Pipeline.png)" alt="Accident Detection Pipeline" width="400"/>
 
 ### 4️⃣ Alert System  
 - If an accident is detected across **multiple frames**, an alert is generated.  
 - Alert **sends an image**, timestamp, and location to a **Telegram group** using the **Telegram Bot API**.  
 
-<img src="[hello](https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Alert%20Image.png)" alt="Alert System" width="400"/>
+<img src="https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Alert%20Image.png)" alt="Alert System" width="400"/>
 
 ---
 
@@ -56,10 +56,10 @@ Below is the **workflow diagram** of the accident detection and alert system:
 ### 📊 Model Training Performance  
 Below are the **training accuracy** and **loss graphs**:  
 
-<img src="[hello](https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Training%20accuracy%20and%20val_accuracy..png)" alt="Training Accuracy" width="400"/>
+<img src="https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Training%20accuracy%20and%20val_accuracy..png)" alt="Training Accuracy" width="400"/>
 *Figure: Accuracy improvement over epochs.*  
 
-<img src="[hello](https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Training%20loss%20and%20val_loss..png)" alt="Training Loss" width="500"/>
+<img src="https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Training%20loss%20and%20val_loss..png)" alt="Training Loss" width="500"/>
 *Figure: Loss reduction over epochs.*  
 
 ---
