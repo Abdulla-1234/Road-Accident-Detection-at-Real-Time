@@ -1,9 +1,9 @@
 # 🚗 Road Accident Detection and Alert System using Deep Learning  
 
-## 📌 Project Overview  
+## Project Overview  
 This project implements a **real-time road accident detection and alert system** using **deep learning techniques**. The system processes live or recorded **CCTV footage** to detect accidents using **Convolutional Neural Networks (CNNs)** and sends an **automated alert** via Telegram in case of an accident.  
 
-## 🔍 Abstract  
+## Abstract  
 Traffic accidents are a major cause of fatalities worldwide, often due to **delayed emergency responses**. This project proposes an **AI-driven solution** that can:  
 - Detect accidents in **real-time** using **CNN-based deep learning models**.  
 - Send **immediate alerts** via **Telegram API**, containing time, location, and accident details.  
@@ -18,7 +18,7 @@ Below is the **workflow diagram** of the accident detection and alert system:
 
 ---
 
-## 🏗️ Methodology  
+## Methodology  
 
 ### 1️⃣ Data Collection & Preprocessing  
 - Dataset: **CCTV footage** with accident and non-accident frames.  
@@ -42,7 +42,7 @@ Below is the **workflow diagram** of the accident detection and alert system:
 
 ---
 
-## 📊 Model Performance  
+## Model Performance  
 
 | Model               | Accuracy | Precision | Recall | F1-Score |
 |---------------------|----------|-----------|--------|----------|
@@ -54,7 +54,7 @@ Below is the **workflow diagram** of the accident detection and alert system:
 | Vision Transformer | 91%      | 91%       | 91%    | 91%      |
 
 
-## 📊 Model Training Performance  
+## Model Training Performance  
 Below are the **training accuracy** and **loss graphs**:  
 
 <div style="display: flex; justify-content: center;">
@@ -68,7 +68,7 @@ Below are the **training accuracy** and **loss graphs**:
 
 ---
 
-## 📢 Alert System Example  
+## Alert System Example  
 
 Here’s an example of the **Telegram alert message** sent in case of an accident:  
 
