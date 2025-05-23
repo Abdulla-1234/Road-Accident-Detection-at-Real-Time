@@ -11,7 +11,7 @@ Traffic accidents are a major cause of fatalities worldwide, often due to **dela
 
 The system is **trained on a subset of the UCF Crime Dataset** and fine-tuned with data augmentation to improve detection accuracy.  
 
-## 📷 System Workflow  
+## System Workflow  
 Below is the **workflow diagram** of the accident detection and alert system: 
 
 <img src="https://github.com/Abdulla-1234/Road-Accident-Detection-at-Real-Time/blob/main/Images/Workflow%20Diagram.png" alt="Workflow Diagram" width="400"/>
