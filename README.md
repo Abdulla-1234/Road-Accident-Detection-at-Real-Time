@@ -70,5 +70,5 @@ Below are the **training accuracy** and **loss graphs**:
 
 ## Alert System Example  
 
-Here’s an example of the **Telegram alert message** sent in case of an accident:  
+Here’s an example of the **Telegram alert message** sent in case of an accident
 
