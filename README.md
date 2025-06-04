@@ -1,4 +1,4 @@
-# 🚗 Road Accident Detection and Alert System using Deep Learning  
+# Road Accident Detection and Alert System using Deep Learning 🚗
 
 ## Project Overview  
 This project implements a **real-time road accident detection and alert system** using **deep learning techniques**. The system processes live or recorded **CCTV footage** to detect accidents using **Convolutional Neural Networks (CNNs)** and sends an **automated alert** via Telegram in case of an accident.  
